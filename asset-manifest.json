@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-selsup/static/css/main.3e5f6d0a.css",
+    "main.js": "/test-selsup/static/js/main.0af7cdc6.js",
+    "static/js/453.c89d2463.chunk.js": "/test-selsup/static/js/453.c89d2463.chunk.js",
+    "index.html": "/test-selsup/index.html",
+    "main.3e5f6d0a.css.map": "/test-selsup/static/css/main.3e5f6d0a.css.map",
+    "main.0af7cdc6.js.map": "/test-selsup/static/js/main.0af7cdc6.js.map",
+    "453.c89d2463.chunk.js.map": "/test-selsup/static/js/453.c89d2463.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e5f6d0a.css",
+    "static/js/main.0af7cdc6.js"
+  ]
+}
